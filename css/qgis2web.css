@@ -1,3 +1,8 @@
+#map {
+  width: 100%;
+  height: 100vh;
+  max-width: 100%;
+}
 
         #map {
             background-color: #ffffff
@@ -206,4 +211,5 @@
                 1px -1px 0 #000000,
                 1px 0px 0 #000000,
                 1px 1px 0 #000000;
+
         }
